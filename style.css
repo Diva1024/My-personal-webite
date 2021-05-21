@@ -1,0 +1,77 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_main-div{
+    border: 2px solid Purple;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+    
+}
+.travel_main-div img{
+    width:100%;
+    
+}
+.travel_main-div hr{
+    width:250px;
+}
+.travel_main-div h4,.travel_main-div p{
+    margin-left: 20px;
+}
+.Environment_li{
+    margin-top: 15px;
+    
+}
+.Environment_li h1{
+    border-bottom: 2px solid purple;
+    padding: 8px;
+}
+.Environment_li img{
+    border-radius: 30px;
+    
+}
+.Environment_li p{
+    margin-top:10px;
+    
+}
+.books_mark{
+    line-height: 3
+}
+.Mybook{
+    cursor: pointer;
+    
+}
+.Mybook hr{
+    margin-bottom:10px;
+    
+}
+.modal-content{
+    margin-top:100px;
+    
+}
+.img-modal{
+    display: inline-block;
+    
+}
+.p_modal{
+    margin-top:10px;
+    
+}
+.modal-body{
+    text-align:center;
+    
+}
